@@ -1,0 +1,27 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Objects","order":11,"path":"folders/Objects.yy",},
+    {"name":"Rooms","order":12,"path":"folders/Rooms.yy",},
+    {"name":"Sprites","order":10,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_main_chr_girl","order":2,"path":"objects/obj_main_chr_girl/obj_main_chr_girl.yy",},
+    {"name":"obj_title_logo","order":1,"path":"objects/obj_title_logo/obj_title_logo.yy",},
+    {"name":"obj_title","order":3,"path":"objects/obj_title/obj_title.yy",},
+    {"name":"obj_windmill","order":4,"path":"objects/obj_windmill/obj_windmill.yy",},
+    {"name":"rm_main","order":1,"path":"rooms/rm_main/rm_main.yy",},
+    {"name":"rm_market","order":2,"path":"rooms/rm_market/rm_market.yy",},
+    {"name":"spr_grass_tile","order":5,"path":"sprites/spr_grass_tile/spr_grass_tile.yy",},
+    {"name":"spr_main_chr","order":6,"path":"sprites/spr_main_chr/spr_main_chr.yy",},
+    {"name":"spr_spring_grass_tuft","order":7,"path":"sprites/spr_spring_grass_tuft/spr_spring_grass_tuft.yy",},
+    {"name":"spr_spring_terrain","order":8,"path":"sprites/spr_spring_terrain/spr_spring_terrain.yy",},
+    {"name":"spr_title_logo_shadow","order":3,"path":"sprites/spr_title_logo_shadow/spr_title_logo_shadow.yy",},
+    {"name":"spr_title_logo","order":2,"path":"sprites/spr_title_logo/spr_title_logo.yy",},
+    {"name":"spr_title_menu_buttons","order":4,"path":"sprites/spr_title_menu_buttons/spr_title_menu_buttons.yy",},
+    {"name":"spr_title","order":1,"path":"sprites/spr_title/spr_title.yy",},
+    {"name":"spr_windmill_body","order":9,"path":"sprites/spr_windmill_body/spr_windmill_body.yy",},
+    {"name":"spr_windmill_rotor","order":10,"path":"sprites/spr_windmill_rotor/spr_windmill_rotor.yy",},
+    {"name":"ts_grass","order":13,"path":"tilesets/ts_grass/ts_grass.yy",},
+    {"name":"ts_spring_terrain","order":14,"path":"tilesets/ts_spring_terrain/ts_spring_terrain.yy",},
+  ],
+}
